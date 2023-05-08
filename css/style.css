@@ -1,0 +1,42 @@
+#contenedor
+{
+    width: 100%;
+    margin: auto;
+    
+}
+#carousel
+{
+    width: 100%;
+    filter: brightness(50%);
+    margin-left:auto;
+
+}
+.carousel-caption
+{
+    top: 25%;
+    text-decoration-color: 80%;;
+}
+
+#cards
+{
+    width: 80%;
+    margin: auto;
+}
+#card
+{
+    width: 100%;
+    margin: auto;
+}
+#form
+{
+    width: 50%;
+    margin: auto;
+}
+
+#footer
+{
+    width: 100%;
+    margin: auto;
+}
+
+
